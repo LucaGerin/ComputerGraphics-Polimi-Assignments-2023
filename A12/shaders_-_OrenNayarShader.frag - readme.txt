@@ -1,0 +1,5 @@
+Copy here files:
+shaders/PhongShader.frag
+shaders/BlinnNormMapShader.frag
+shaders/OrenNayarShader.frag
+shaders/GGXNormMapShader.frag

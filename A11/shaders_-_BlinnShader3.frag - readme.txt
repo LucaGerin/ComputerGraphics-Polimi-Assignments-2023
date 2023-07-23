@@ -1,0 +1,4 @@
+Copy here files:
+shaders/BlinnShader1.frag
+shaders/BlinnShader2.frag
+shaders/BlinnShader3.frag
